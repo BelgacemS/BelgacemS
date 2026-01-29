@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**BelgacemS/BelgacemS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Sorbonne University - passionate about **AI** & **Cybersecurity**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+### 💻 Languages
+Python • SQL • Java • C • OCaml
+
+### 📊 Data Science
+NumPy • pandas • scikit-learn • PyTorch • Hugging Face • Matplotlib • Seaborn
+
+### 📐 Mathematics & Statistics
+Descriptive Statistics • Inferential Statistics • Probability • Algebra
+
+### 🔐 Cybersecurity / Systems
+Docker • Bash • Wireshark • Nmap
+
+---
+
+## 🧠 Interests
+Chess • Astronomy • Dystopian universes
+
+---
+
+## 📫 Contact
+- [Email](mailto:Belgacem.Smaali@etu.sorbonne-universite.fr)
+- [LinkedIn](https://www.linkedin.com/in/belgacems/)
