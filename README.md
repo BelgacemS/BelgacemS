@@ -1,9 +1,11 @@
 # Hi there 👋
 
-I'm a Computer Science student at Sorbonne University - passionate about **AI** & **Cybersecurity**
+MSc student in Machine Learning & Data Science - Université Paris Cité
+
+Interested in deep learning, LLMs and reinforcement learning.
 
 ---
 
 ## 📫 Contact
-- [Email](mailto:Belgacem.Smaali@etu.sorbonne-universite.fr)
+- [Email](mailto:belgacem.smaali@proton.me)
 - [LinkedIn](https://www.linkedin.com/in/belgacems/)
